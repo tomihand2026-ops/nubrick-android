@@ -3,7 +3,7 @@
 ## Requirements
 
 - Runtime: Android `minSdk 26+`
-- Build: Android `compileSdk 36+`
+- Build: Android `compileSdk 36+`11
 - Android Gradle Plugin `8.9.1+`
 
 ## Samples
